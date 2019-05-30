@@ -1,0 +1,4 @@
+buckets:
+  training: objectdetection87
+  output: objectdetection87
+name: objectdetection87
